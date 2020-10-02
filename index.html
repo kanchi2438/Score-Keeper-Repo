@@ -1,22 +1,42 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="scorekeeper.css">
-	<title>scorekeeper</title>
-</head>
-<body class="back">
-	<h1>Score Keeper ( DOM manipulation )</h1>
-	
-	<h1><span id="p1s">0</span> to <span id="p2s">0</span></h1>
-	<p>Playing to : <span>5</span></p>
-	<input type="number" name="total chances">
-	<button id="p1">Player one</button>
-    <button id="p2">Player two</button>
-    <button id="reset">Reset</button>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Proza+Libre:wght@600&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" type="text/css" href="scorekeeper.css" />
+    <title>Score Keeper</title>
+  </head>
+  <body class="back">
+    <div class="container">
+      <div class="title-container">
+        <h1>Score Keeper ( DOM manipulation )</h1>
+      </div>
 
-	<script type="text/javascript" src="scorekeeper.js"></script>
+      <div class="score-container">
+        <div class="score">
+          <p class="playing-to">Playing to : <span>5</span></p>
+          <h1><span id="p1s">0</span> to <span id="p2s">0</span></h1>
+        </div>
 
-</body>
+        <div>
+          <div class="score-input">
+            <input type="number" name="total chances" class="total-chances" />
+            <button id="p1" class="btn-p1">Player one</button>
+            <button id="p2" class="btn-p2">Player two</button>
+            <button id="reset" class="btn-reset">Reset</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript" src="scorekeeper.js"></script>
+  </body>
 </html>
