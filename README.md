@@ -18,8 +18,8 @@ There are 3 main buttons for this to work:
 
 ## Whats behind the scenes?👀💡
 
-This repo works purely on javascript, entirely DOM to manipulate the web elements amd update the score
+This repo works purely on javascript, mostly DOM to manipulate the web elements and update the score
 
 ## What can I do?🤷‍♀️
 
-Well you are free to fork this repo, edit it as you wish, do suggest and changes I can make and more!
+Well you are free to fork this repo, edit it as you wish, do suggest any changes I can make and more!
