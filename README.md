@@ -12,9 +12,9 @@ There are 3 main buttons for this to work:
 2. Player 1 Score ⭐
 3. Player 2 Score ⭐⭐
 
-~ Reset Button will reset the score to 0
-~ Player 1 button will increase the score count by +1
-~ Player 2 button will increase the score count by +1
+- Reset Button will reset the score to 0
+- Player 1 button will increase the score count by +1
+- Player 2 button will increase the score count by +1
 
 ## Whats behind the scenes?👀💡
 
