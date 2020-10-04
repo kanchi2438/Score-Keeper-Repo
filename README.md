@@ -2,7 +2,7 @@
 
 ## What is this Repo about?🤔
 
-Basically this rep will help you manage your score while playing games like Tic-tac-toe or Stone-Papaer-Scissors or
+Basically this repo will help you manage your score while playing games like Tic-tac-toe or Stone-Papaer-Scissors or
 even to keep a count of the number of time you and your sibling have pranked each other!😁🙌
 
 ## How does it work?
