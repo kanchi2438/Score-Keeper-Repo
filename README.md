@@ -6,6 +6,7 @@ Basically this repo will help you manage your score while playing games like Tic
 even to keep a count of the number of time you and your sibling have pranked each other!😁🙌
 
 ## How does it work?
+![Screenshot](scorerepopreview.png)
 
 There are 3 main buttons for this to work:
 1. Reset Button 🔃
